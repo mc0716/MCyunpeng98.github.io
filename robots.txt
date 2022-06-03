@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: startingnow.cn/sitemap.xml
