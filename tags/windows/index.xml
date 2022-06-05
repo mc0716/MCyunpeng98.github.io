@@ -13,7 +13,7 @@
       <pubDate>Tue, 12 Nov 2019 21:41:25 +0800</pubDate>
       
       <guid>http://localhost:1313/post/windows-%E4%BD%BF%E7%94%A8-homsetead-%E6%8A%A5%E9%94%99%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</guid>
-      <description>在Windows中搭建Homsetead使用命令vagrant up 报错 1 2 3 4 5 $ vagrant up Bringing machine &amp;#39;homestead-7&amp;#39; up with &amp;#39;virtualbox&amp;#39; provider... D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39;: incompatible character encodings: UTF-8 and GBK (Encoding::CompatibilityError) from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39; from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `validate&amp;#39; 原因就是用户</description>
+      <description>1 2 3 4 5 $ vagrant up Bringing machine &amp;#39;homestead-7&amp;#39; up with &amp;#39;virtualbox&amp;#39; provider... D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39;: incompatible character encodings: UTF-8 and GBK (Encoding::CompatibilityError) from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39; from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `validate&amp;#39; 原因就是用户名是中文的 打开控制面板中更改用户类型 点击用户 选择更改用户名称改成英文</description>
     </item>
     
   </channel>
