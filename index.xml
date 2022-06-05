@@ -16,5 +16,14 @@
       <description>1 2 3 4 5 $ vagrant up Bringing machine &amp;#39;homestead-7&amp;#39; up with &amp;#39;virtualbox&amp;#39; provider... D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39;: incompatible character encodings: UTF-8 and GBK (Encoding::CompatibilityError) from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `expand_path&amp;#39; from D:/HashiCorp/Vagrant/embedded/gems/2.2.6/gems/vagrant-2.2.6/plugins/provisioners/file/config.rb:20:in `validate&amp;#39; 原因就是用户名是中文的 打开控制面板中更改用户类型 点击用户 选择更改用户名称改成英文</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>马福超 男 95 后</description>
+    </item>
+    
   </channel>
 </rss>
